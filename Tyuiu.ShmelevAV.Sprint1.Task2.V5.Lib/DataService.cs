@@ -6,7 +6,7 @@ namespace Tyuiu.ShmelevAV.Sprint1.Task2.V5.Lib
     {
         public int CalculateSideSquare(int value)
         {
-            return value * value * 4;
+            return value * value * 6;
         }
     }
 }
